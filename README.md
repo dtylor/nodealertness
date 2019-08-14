@@ -1,7 +1,7 @@
 # nodealertness
 Cointegration graphs 
 
-#Citing
+# Citing
 If you find this application of co-integration in graph interesting, please reference the following paper:
 
 @article{DBLP:journals/corr/abs-1907-11623,
